@@ -1,10 +1,16 @@
 _repo: Allen-Morton-s-West-London-Directory-for-1867_51104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morton, Allen &
     gutenberg_agent_id: '46242'
     url: http://www.gutenberg.org/2009/agents/46242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51104#Allen-Morton-s-West-London-Directory-for-1867
 gutenberg_issued: '2016-02-01'
 gutenberg_type: Text
 identifiers:
